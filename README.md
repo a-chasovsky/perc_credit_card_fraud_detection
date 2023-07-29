@@ -32,8 +32,8 @@
 >     7. Результаты базовых моделей
 >8. Метрики, ориентированные на транзакции 
 >>     8.1. AUC ROC  
->>  8.2. Precision-Recall  
->>  8.3. Precision-Recall Trade-off 
+>>      8.2. Precision-Recall  
+>>        8.3. Precision-Recall Trade-off 
 >9. Метрики, ориентированные на банковские карты
 >>  9.1. Card Precision top-k
 >10. Техники для преобразования несбалансированных датасетов
